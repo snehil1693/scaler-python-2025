@@ -25,3 +25,23 @@ n2 = 'Shyam'
 
 print(n1 + " says Hi to " + n2)
 
+print(type("Snehil"))
+
+print(type(123))
+
+print(type(2.0))
+
+print(type(True))
+
+print(type(False))
+
+print(type(None))
+
+#For multi line string
+print(
+    """
+    Hey!!
+    Welcome to class
+    """
+)
+
