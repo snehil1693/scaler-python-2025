@@ -45,3 +45,24 @@ print(
     """
 )
 
+# a is the container/variable and 10 is the value which is stored inside the container
+
+a = 10
+
+print(a)
+
+phi = 3.14
+
+print(type(phi))
+
+passed = True
+
+print(type(passed))
+
+a = "12"
+b = int(a)
+
+print(type(b))
+
+
+
