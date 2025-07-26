@@ -15,3 +15,5 @@ print("54" + "23")
 print(True==1)
 
 print("1"==1)
+
+print (2 ** 0.5)
